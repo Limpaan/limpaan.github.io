@@ -1,0 +1,21 @@
+{
+
+    "applinks": {
+  
+      "apps": [],
+  
+      "details": [
+  
+        {
+  
+          "appID": "Y9726WB7V8.io.logcast.app",
+  
+          "paths": ["/email/verification/*" ]
+  
+        }
+  
+      ]
+  
+    }
+  
+}
